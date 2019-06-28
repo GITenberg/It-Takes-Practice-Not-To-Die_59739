@@ -20,8 +20,8 @@ identifiers:
   gutenberg: '59739'
 language: en
 publisher: Project Gutenberg
-rights: Copyrighted. Read the copyright notice inside this book for details.
-rights_url: ''
+rights: CC BY-NC-ND 4.0
+rights_url: 'https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode'
 subjects:
 - GITenberg
 title: It Takes Practice Not To Die
